@@ -62,9 +62,3 @@ Highlights:
 
 - GitHub: [github.com/ZubairQazzi](https://github.com/ZubairQazzi)
 - LinkedIn: [linkedin.com/in/zubair-qazi-241a9834a](https://www.linkedin.com/in/zubair-qazi-241a9834a/)
-
-## GitHub Snapshot
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZubairQazzi&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairQazzi&layout=compact&theme=tokyonight&hide_border=true)
